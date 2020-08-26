@@ -34,6 +34,6 @@
 	 </plugin>
 	
 	
-	<platform name="android" />
+	
 	<engine name="android" />
 </widget>
